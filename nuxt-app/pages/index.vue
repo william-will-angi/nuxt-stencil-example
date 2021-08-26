@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <my-component><input/></my-component>
 </template>
 
 <script>

@@ -12,7 +12,8 @@
   "unpkg": "dist/component-library/component-library.esm.js",
   "files": [
     "dist/",
-    "loader/"
+    "loader/",
+    "hydrate/"
   ],
   "scripts": {
     "build": "stencil build --docs",
